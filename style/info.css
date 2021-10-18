@@ -19,9 +19,8 @@
 .info-main-photo {
     width: 100%;
     height: 25rem;
-    background-image: url('../img/Мое\ фото_photo-resizer.ru.jpg');
+    background-image: url('../img/ava.jpg');
     background-repeat: no-repeat;
-    /* background-color: #4f7a40; */
 }
 
 .info-main-teacher {
